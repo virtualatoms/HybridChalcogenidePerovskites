@@ -12,7 +12,7 @@ This repository contains the scripts used to analyse and plot results for four h
 ## Repository structure
 
 ```
-scripts/          Jupyter notebooks for analysis and figure generation
+notebooks/        Jupyter notebooks for analysis and figure generation
 data/             Extracted data files used by the plotting notebooks
 plots/            Output figures (PDF)
 relaxed-cifs/     DFT-relaxed crystal structures (CIF format)
@@ -32,7 +32,7 @@ thermal-cifs/     Structures with anisotropic displacement parameters from MD (C
 
 ## Raw data
 
-The raw calculation data (DFT relaxations, MLFF molecular dynamics, and optical spectra) is archived on NOMAD (DOI: to be added). The scripts expect the calculation directories to be present in the root of this repository, alongside `scripts/` and `data/`.
+The raw calculation data (DFT relaxations, MLFF molecular dynamics, and optical spectra) is archived on NOMAD (DOI: to be added). The scripts expect the calculation directories to be present in the root of this repository, alongside `notebooks/` and `data/`.
 
 To download and extract the dataset via the command line, run:
 
