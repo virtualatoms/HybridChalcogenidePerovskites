@@ -1,0 +1,40 @@
+compounds:
+
+    - name: 'CuSCN'
+      ea: 2.1
+      ip: 5.5
+      fade: True
+
+    - name: 'NiO'
+      ea: 1.46
+      ip: 5.75
+      fade: True
+
+    - name: 'HZHfS$_3$'
+      ea: 4.14
+      ip: 6.11
+
+    - name: 'HZZrS$_3$'
+      ea: 4.34
+      ip: 6.07
+
+    - name: 'HZHfSe$_3$'
+      ea: 4.37
+      ip: 5.89
+
+    - name: 'HZZrSe$_3$'
+      ea: 4.53
+      ip: 5.84
+
+    - name: 'ITO'
+      ea: 4.4
+      ip: 7.65
+      fade: True
+
+    - name: 'FTO'
+      ea: 4.6
+      ip: 8.3
+      fade: True
+
+settings:
+    show_ea: True
